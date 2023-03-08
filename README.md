@@ -19,4 +19,12 @@ J2 is the connector to the microcontroller
 * Pin 4 - 12V battery power
 * Pin 5 - Ground
 
+Hardware
+========
+
 ![](images/SS1.png)
+
+Here's what it looks like in real life:
+
+![](images/IMG_1681.jpg)
+
