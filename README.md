@@ -38,3 +38,13 @@ Here's what it looks like in real life (V1):
 
 ![](images/IMG_1681.jpg)
 
+Connector Notes
+===============
+
+The scanner/instrument uses a SAE J1962 connector (male)
+* [Cable](https://www.amazon.com/iKKEGOL-Connector-Diagnostic-Extension-Pigtail/dp/B0828YHWFG)
+* [Just the Connector](https://www.sparkfun.com/products/9911)
+* [Connector](https://www.amazon.com/Elecbee-Automobile-Connector-Shell-Diagnostic/dp/B0CKMSXCBY)
+
+
+The vehicle uses a J1962F female connector like this: https://www.amazon.com/Goliton-Connection-Connector-Harness-Assembled/dp/B09NBWQLMQ
