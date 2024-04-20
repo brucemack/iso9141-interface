@@ -48,3 +48,12 @@ The scanner/instrument uses a SAE J1962 connector (male)
 
 
 The vehicle uses a J1962F female connector like this: https://www.amazon.com/Goliton-Connection-Connector-Harness-Assembled/dp/B09NBWQLMQ
+
+Copyright
+=========
+
+Copyright (C) 2024 - Bruce MacKinnon KC1FSZ
+
+This work is covered under the terms of the GNU Public License (V3). Please consult the LICENSE file for more information.
+
+This work is being made available for non-commercial use by the amateur radio community. Redistribution, commercial use or sale of any part is prohibited.
